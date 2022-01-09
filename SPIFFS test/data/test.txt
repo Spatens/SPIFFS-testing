@@ -1,0 +1,4 @@
+Line1  - this is the SPIFFS testfile 
+Line2  - this is the SPIFFS testfile 
+Line3  - this is the SPIFFS testfile 
+Line4  - this is the SPIFFS testfile 
