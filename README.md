@@ -11,8 +11,12 @@ HOWEVER THE CODE DOES NOT WORK!!
         Serial.write(file2.read());        
     }
 
+Seems like:
+file2:
+Could not expand variable: Variable object not found 
+(from var-list-children --all-values var_local_file2.protected._p.std::__shared_ptr<fs::FileImpl, 
+(__gnu_cxx::_Lock_policy)2>)
 
-
-
+Solution will be posted here if/when found
 
 
