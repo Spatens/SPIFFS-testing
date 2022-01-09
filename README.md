@@ -1,4 +1,4 @@
-# SPIFFS-testing WITH ERROR. Read FAILS !! See line 10 in this readme
+# SPIFFS-testing WITH ERROR. "file2.read" fails !!
 This project will do some initial basic reading and writing of a SPIFFS flash system.
 
 The code will first try to locate the file "test.txt" in SPIFFS - and if not found then in the data directory.
